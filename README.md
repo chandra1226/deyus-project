@@ -1,1 +1,3 @@
-# deyus-project
+# deyus-project*
+
+I developed this project using angular 
